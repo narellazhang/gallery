@@ -1,0 +1,20 @@
+{
+  "name": "FEB",
+  "version": "0.1.0",
+  "description": "Front End Boilerplate",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:livoras/feb.git"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "keywords": [],
+  "author": "livoras",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+
+    "browser-sync": "^2.7.6"
+  }
+}
